@@ -1,0 +1,50 @@
+[
+  {
+    "time": "2026-10-08T13:37:42.172Z",
+    "sku": "AB0012P",
+    "title": "12-Digit Desktop Calculator Pink Dual Power",
+    "message": "[{\"message\":\"Variable $input of type InventorySetQuantitiesInput! was provided invalid value for quantities.0.compareQuantity (Field is not defined on InventoryQuantityInput)\",\"locations\":[{\"line\":3,\"column\":13}],\"extensions\":{\"code\":\"INVALID_VARIABLE\",\"value\":{\"name\":\"available\",\"reason\":\"correction\",\"quantities\":[{\"inventoryItemId\":\"gid://shopify/InventoryItem/69643175985330\",\"locationId\":\"gid://shopify/Location/84123287730\",\"quantity\":4779,\"compareQuantity\":0}]},\"problems\":[{\"path\":[\"quantities\",0,\"compareQuantity\"],\"explanation\":\"Field is not defined on InventoryQuantityInput\"}]}}]"
+  },
+  {
+    "time": "2026-10-08T13:37:45.006Z",
+    "sku": "AB1010",
+    "title": "Parrot Abacus 100 Beads",
+    "message": "[{\"message\":\"Variable $input of type InventorySetQuantitiesInput! was provided invalid value for quantities.0.compareQuantity (Field is not defined on InventoryQuantityInput)\",\"locations\":[{\"line\":3,\"column\":13}],\"extensions\":{\"code\":\"INVALID_VARIABLE\",\"value\":{\"name\":\"available\",\"reason\":\"correction\",\"quantities\":[{\"inventoryItemId\":\"gid://shopify/InventoryItem/69643176018098\",\"locationId\":\"gid://shopify/Location/84123287730\",\"quantity\":4193,\"compareQuantity\":0}]},\"problems\":[{\"path\":[\"quantities\",0,\"compareQuantity\"],\"explanation\":\"Field is not defined on InventoryQuantityInput\"}]}}]"
+  },
+  {
+    "time": "2026-10-08T13:37:47.502Z",
+    "sku": "AB1010-Z",
+    "title": "Parrot Abacus 100 Beads - Box of 40 Uncarded",
+    "message": "[{\"message\":\"Variable $input of type InventorySetQuantitiesInput! was provided invalid value for quantities.0.compareQuantity (Field is not defined on InventoryQuantityInput)\",\"locations\":[{\"line\":3,\"column\":13}],\"extensions\":{\"code\":\"INVALID_VARIABLE\",\"value\":{\"name\":\"available\",\"reason\":\"correction\",\"quantities\":[{\"inventoryItemId\":\"gid://shopify/InventoryItem/69643176050866\",\"locationId\":\"gid://shopify/Location/84123287730\",\"quantity\":79,\"compareQuantity\":0}]},\"problems\":[{\"path\":[\"quantities\",0,\"compareQuantity\"],\"explanation\":\"Field is not defined on InventoryQuantityInput\"}]}}]"
+  },
+  {
+    "time": "2026-10-08T13:37:50.352Z",
+    "sku": "AB1012",
+    "title": "Counting Cubes 100 Piece Set Educational Maths & Sorting Cubes",
+    "message": "[{\"message\":\"Variable $input of type InventorySetQuantitiesInput! was provided invalid value for quantities.0.compareQuantity (Field is not defined on InventoryQuantityInput)\",\"locations\":[{\"line\":3,\"column\":13}],\"extensions\":{\"code\":\"INVALID_VARIABLE\",\"value\":{\"name\":\"available\",\"reason\":\"correction\",\"quantities\":[{\"inventoryItemId\":\"gid://shopify/InventoryItem/69643176083634\",\"locationId\":\"gid://shopify/Location/84123287730\",\"quantity\":251,\"compareQuantity\":0}]},\"problems\":[{\"path\":[\"quantities\",0,\"compareQuantity\"],\"explanation\":\"Field is not defined on InventoryQuantityInput\"}]}}]"
+  },
+  {
+    "time": "2026-10-08T13:37:52.814Z",
+    "sku": "AC1001",
+    "title": "Multi Plug (6 X 16A SA And 5 X Euro And 1 X Schucko Extender)",
+    "message": "[{\"message\":\"Variable $input of type InventorySetQuantitiesInput! was provided invalid value for quantities.0.compareQuantity (Field is not defined on InventoryQuantityInput)\",\"locations\":[{\"line\":3,\"column\":13}],\"extensions\":{\"code\":\"INVALID_VARIABLE\",\"value\":{\"name\":\"available\",\"reason\":\"correction\",\"quantities\":[{\"inventoryItemId\":\"gid://shopify/InventoryItem/69643176116402\",\"locationId\":\"gid://shopify/Location/84123287730\",\"quantity\":10,\"compareQuantity\":0}]},\"problems\":[{\"path\":[\"quantities\",0,\"compareQuantity\"],\"explanation\":\"Field is not defined on InventoryQuantityInput\"}]}}]"
+  },
+  {
+    "time": "2026-10-08T13:37:55.058Z",
+    "sku": "AC1008",
+    "title": "3 x 16A SA & 3 x Euro Multi-Plug",
+    "message": "[{\"message\":\"Variable $input of type InventorySetQuantitiesInput! was provided invalid value for quantities.0.compareQuantity (Field is not defined on InventoryQuantityInput)\",\"locations\":[{\"line\":3,\"column\":13}],\"extensions\":{\"code\":\"INVALID_VARIABLE\",\"value\":{\"name\":\"available\",\"reason\":\"correction\",\"quantities\":[{\"inventoryItemId\":\"gid://shopify/InventoryItem/69643176181938\",\"locationId\":\"gid://shopify/Location/84123287730\",\"quantity\":43,\"compareQuantity\":0}]},\"problems\":[{\"path\":[\"quantities\",0,\"compareQuantity\"],\"explanation\":\"Field is not defined on InventoryQuantityInput\"}]}}]"
+  },
+  {
+    "time": "2026-10-08T13:37:57.479Z",
+    "sku": "AC1009",
+    "title": "Plug - RSA Twin Euro Adaptor",
+    "message": "[{\"message\":\"Variable $input of type InventorySetQuantitiesInput! was provided invalid value for quantities.0.compareQuantity (Field is not defined on InventoryQuantityInput)\",\"locations\":[{\"line\":3,\"column\":13}],\"extensions\":{\"code\":\"INVALID_VARIABLE\",\"value\":{\"name\":\"available\",\"reason\":\"correction\",\"quantities\":[{\"inventoryItemId\":\"gid://shopify/InventoryItem/69643176411314\",\"locationId\":\"gid://shopify/Location/84123287730\",\"quantity\":14,\"compareQuantity\":0}]},\"problems\":[{\"path\":[\"quantities\",0,\"compareQuantity\"],\"explanation\":\"Field is not defined on InventoryQuantityInput\"}]}}]"
+  },
+  {
+    "time": "2026-10-08T13:37:59.549Z",
+    "sku": "AC1010",
+    "title": "1 x 16A SA & 2 x Euro & 1 x Schucko Socket Adaptor",
+    "message": "[{\"message\":\"Variable $input of type InventorySetQuantitiesInput! was provided invalid value for quantities.0.compareQuantity (Field is not defined on InventoryQuantityInput)\",\"locations\":[{\"line\":3,\"column\":13}],\"extensions\":{\"code\":\"INVALID_VARIABLE\",\"value\":{\"name\":\"available\",\"reason\":\"correction\",\"quantities\":[{\"inventoryItemId\":\"gid://shopify/InventoryItem/69643176444082\",\"locationId\":\"gid://shopify/Location/84123287730\",\"quantity\":50,\"compareQuantity\":0}]},\"problems\":[{\"path\":[\"quantities\",0,\"compareQuantity\"],\"explanation\":\"Field is not defined on InventoryQuantityInput\"}]}}]"
+  }
+]

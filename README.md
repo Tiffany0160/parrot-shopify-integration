@@ -1,5 +1,3 @@
-# parrot-shopify-integration
-
 # Parrot Products → Shopify Integration
 
 ## 1. Project Overview
